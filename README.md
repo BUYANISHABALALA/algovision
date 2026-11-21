@@ -1,2 +1,2 @@
 # AlgoVision
-AlgoVison demonstrates how different sorting algorithms work.
+AlgoVision demonstrates how different sorting algorithms work.
